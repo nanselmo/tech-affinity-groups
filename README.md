@@ -15,10 +15,13 @@ A list of affinity groups/spaces/resources in tech
 * [People of Color in Tech Jobs](https://pocitjobs.com) - Find engineering, design, sales, marketing and other jobs for people of color in technology.
 
 ## Social Media
-* [@Friedamca](https://twitter.com/friedamca) - Indigenous, she/they. Senior Research Associate [@kaporcenter](https://twitter.com/kaporcenter], [@in_woc][=(https://twitter.com/in_woc). Tweets are my own.
+* [@Friedamca](https://twitter.com/friedamca) - Indigenous, she/they. Senior Research Associate [@kaporcenter](https://twitter.com/kaporcenter), [@in_woc](https://twitter.com/in_woc). Tweets are my own.
 * [@EricaJoy](https://twitter.com/EricaJoy) - she/her | Director of Engineering | Never, ever be afraid to make some noise and get in good trouble, necessary trouble. -John Lewis | Sparkling heartBlue heart
-* [@loooorenanicole](https://twitter.com/loooorenanicole) - [@PyLadiesChicago](https://twitter.com/PyLadiesChicago), [@ThePSF](https://twitter.com/ThePSF)Chair, Director, Fellow; [@github](https://twitter.com/github) engineer #LatinxInTech. Sparkling hearts to live long, Snake, Rocket, Person running & prosper Raised hand with part between middle and ring fingers; opinions my own. She/her.
+* [@loooorenanicole](https://twitter.com/loooorenanicole) - [@PyLadiesChicago](https://twitter.com/PyLadiesChicago), [@ThePSF](https://twitter.com/ThePSF) Chair, Director, Fellow; [@github](https://twitter.com/github) engineer #LatinxInTech. Sparkling hearts to live long, Snake, Rocket, Person running & prosper Raised hand with part between middle and ring fingers; opinions my own. She/her.
 * [@KimCrayton1](https://twitter.com/KimCrayton1) - The Antiracist Economist ~ Because We Must Stop Profiting Off Anti-Blackness ~ Ask Me About "Profit Without Oppression" ~ #CorporateBlackface ~ 
+* [@hellomayuko](https://twitter.com/hellomayuko) - Content Creator and iOS Software Engineer. She/her/hers, 日本語: [@helloMayuko_jp](https://twitter.com/helloMayuko_jp)
+* [@mekkaokereke](https://twitter.com/mekkaokereke) - Building digital ecosystems at Google, but opinions my own.
+
 
 
 ## Podcasts
