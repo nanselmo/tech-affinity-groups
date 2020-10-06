@@ -5,6 +5,9 @@ A list of affinity groups/spaces/resources in tech
 * [Techqueria](https://techqueria.org/) - a nonprofit that serves the largest community of Latinx in Tech. 🌮
 * [Out in Tech](https://outintech.com/) - Out in Tech is a 501(c)(3) non-profit that unites the LGBTQ+ tech community. We do this by creating opportunities for our 40,000 members to advance their careers, grow their networks, and leverage tech for social change.
 
+## Conferences
+* [Technodigenous](https://technodigenous.org/about/) - Technodigenous aspires to create a platform for the interactive gathering of Indigenous People and technologists, leading to a better understanding of different perspectives around technology.
+
 
 ## News/Blogs
 * [People of Color in Tech](https://peopleofcolorintech.com/) - The stories of people of color in tech.
