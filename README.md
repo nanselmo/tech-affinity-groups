@@ -13,6 +13,7 @@ A list of affinity groups/spaces/resources in tech
 * [People of Color in Tech](https://peopleofcolorintech.com/) - The stories of people of color in tech.
 * [Model View Culture](https://modelviewculture.com/) -  A magazine about technology, culture and diversity.
 * [Afrotech.com](https://afrotech.com/) - A conference and news site centered around design, startups, and entrepreneurship within the tech space.
+* [Alice In Tech Land](https://aliceintechland.org) - Comics humanizing people in the workplace
 
 ## Job Boards
 * [People of Color in Tech Jobs](https://pocitjobs.com) - Find engineering, design, sales, marketing and other jobs for people of color in technology.
