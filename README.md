@@ -3,7 +3,11 @@ A list of affinity groups/spaces/resources in tech
 
 ## Affinity Groups
 * [Techqueria](https://techqueria.org/) - a nonprofit that serves the largest community of Latinx in Tech. 🌮
+* [/dev/color](https://www.devcolor.org/) - Our mission is to empower Black software engineers to help one another grow into industry leaders.
 * [Out in Tech](https://outintech.com/) - Out in Tech is a 501(c)(3) non-profit that unites the LGBTQ+ tech community. We do this by creating opportunities for our 40,000 members to advance their careers, grow their networks, and leverage tech for social change.
+* [She Geeks Out](https://shegeeksout.com/) - We provide tech and tech-adjacent womxn and their allies an opportunity to network and connect with each other as well as with companies who wish to hire them.
+* [Blacks in Technology](https://www.blacksintechnology.net/) - Blacks In Technology is a global platform for Black people in technology. We are "Stomping the Divide" by establishing standards for world class technical excellence. BIT serves members through community, media and mentorship. We provide resources, guidance and challenge members to establish new standards of innovation.
+
 
 ## Conferences
 * [Technodigenous](https://technodigenous.org/about/) - Technodigenous aspires to create a platform for the interactive gathering of Indigenous People and technologists, leading to a better understanding of different perspectives around technology.
@@ -14,9 +18,11 @@ A list of affinity groups/spaces/resources in tech
 * [Model View Culture](https://modelviewculture.com/) -  A magazine about technology, culture and diversity.
 * [Afrotech.com](https://afrotech.com/) - A conference and news site centered around design, startups, and entrepreneurship within the tech space.
 * [Alice In Tech Land](https://aliceintechland.org) - Comics humanizing people in the workplace
+* [Coding It Forward Newsletter](https://us15.campaign-archive.com/home/?u=9254473a71d61ff7556fa5215&id=d4710348b9) - Monthly newsletters around civic tech.
 
 ## Job Boards
 * [People of Color in Tech Jobs](https://pocitjobs.com) - Find engineering, design, sales, marketing and other jobs for people of color in technology.
+* [Tech Ladies](https://www.hiretechladies.com/) - Tech Ladies is a worldwide community with 100,000 members. Through a supportive online group, a free job board, and opportunities to learn, we help Tech Ladies grow their careers.
 
 ## Social Media
 * [@Friedamca](https://twitter.com/friedamca) - Indigenous, she/they. Senior Research Associate [@kaporcenter](https://twitter.com/kaporcenter), [@in_woc](https://twitter.com/in_woc). Tweets are my own.
@@ -32,6 +38,8 @@ A list of affinity groups/spaces/resources in tech
 * [Black Tech, Green Money](https://www.afrotechpodcast.com/) - Black Techies With A Passion For Capital
 * [Cause a Scene Podcast](https://hashtagcauseascene.com/podcast/category/podcasts/) - The Strategic Disruption of the Status Quo in Technical Organizations, Communities, and Events, by [@KimCrayton1](https://twitter.com/KimCrayton1)
 * [Git Cute](https://gitcutepodcast.com/podcast/) - Getting a job in technology is hard but staying there is even harder. Each Monday, join Jocelyn Harper, a software engineer, while she tackles the mundane and discusses hot topics within the technology sector with interviews, personal deep-dives, and more!, by [@soandsos](https://twitter.com/soandsos)
+* [Black Tech Unplugged](https://blacktechunplugged.com/) - Black Tech Unplugged was created to tell the stories of Blacks in Tech. These stories are created to help YOU, the listener, hear what others have went through to get where they are. To share resources and advice so you have guidance on your tech journey.
 
 ## Resource Lists
 * [Cracking the Code Conference Resources](https://conference.crackthecode.io/resources/) - A collection of resources to promote the personal and professional growth of women and genderqueer people working in progressive data, analytics, and technology. Crack the Code is a trans-friendly space.
+
