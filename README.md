@@ -7,6 +7,7 @@ A list of affinity groups/spaces/resources in tech
 * [Out in Tech](https://outintech.com/) - Out in Tech is a 501(c)(3) non-profit that unites the LGBTQ+ tech community. We do this by creating opportunities for our 40,000 members to advance their careers, grow their networks, and leverage tech for social change.
 * [She Geeks Out](https://shegeeksout.com/) - We provide tech and tech-adjacent womxn and their allies an opportunity to network and connect with each other as well as with companies who wish to hire them.
 * [Blacks in Technology](https://www.blacksintechnology.net/) - Blacks In Technology is a global platform for Black people in technology. We are "Stomping the Divide" by establishing standards for world class technical excellence. BIT serves members through community, media and mentorship. We provide resources, guidance and challenge members to establish new standards of innovation.
+* [Sista Circle](https://www.facebook.com/groups/scbwit/) - Sista Circle: Black Women in Tech is a solidarity group dedicated to supporting the work of Black Women in the technology (BWiT) industry from across the Diaspora.
 
 
 ## Conferences
