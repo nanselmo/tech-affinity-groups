@@ -1,5 +1,5 @@
 # Tech Affinity Groups
-A list of affinity groups/spaces/resources in tech 
+A list of affinity groups/spaces/resources in tech. Short link: bit.ly/tech-groups
 
 ## Affinity Groups
 * [Techqueria](https://techqueria.org/) - a nonprofit that serves the largest community of Latinx in Tech. 🌮
